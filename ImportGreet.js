@@ -1,2 +1,2 @@
-import { greetFunction } from './greet.js';
+import { greetFunction } from './Greet.js';
 console.log(greetFunction('Jack'));
